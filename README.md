@@ -1,5 +1,1 @@
-[README.md](https://github.com/user-attachments/files/23440678/README.md)
-[recursive_iterative().py](https://github.com/user-attachments/files/23440679/recursive_iterative.py)[largest_number().py](https://github.com/user-attachments/files/23440685/largest_number.py)
-[Lab_Assignment_1(Azra).docx](https://github.com/user-attachments/files/23440682/Lab_Assignment_1.Azra.docx)
-[is_prime().py](https://github.com/user-attachments/files/23440681/is_prime.py)
-[reverse_string().py](https://github.com/user-attachments/files/23440680/reverse_string.py)
+
